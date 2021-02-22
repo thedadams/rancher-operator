@@ -11,7 +11,7 @@ require (
 	github.com/rancher/norman v0.0.0-20200930000340-693d65aaffe3
 	github.com/rancher/rancher/pkg/apis v0.0.0-20210207181037-4cb2ebe259c0
 	github.com/rancher/rancher/pkg/client v0.0.0-20210207181037-4cb2ebe259c0
-	github.com/rancher/rke v1.2.6-rc4.0.20210205231142-0e2db503c5a2
+	github.com/rancher/rke v1.3.0-rc1.0.20210218170055-c66fcc3f93cd
 	github.com/rancher/wrangler v0.7.3-0.20201028210318-d73835950c29
 	github.com/sirupsen/logrus v1.6.0
 	github.com/urfave/cli v1.22.2
